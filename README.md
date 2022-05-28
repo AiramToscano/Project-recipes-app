@@ -34,7 +34,11 @@ The recipes data come from 2 distinct [APIs](#apis-used), one for food and anoth
 ## Time
 
   The team had 10 days to develop the web app from scratch and organize all requirements
+  
+---
 
+## Preview do projeto
+![recipes](https://github.com/AiramToscano/Project-recipes-app/blob/airamtoscano/rappidissimo.gif)
 
 ---
 ## APIs used
